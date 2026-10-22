@@ -1,0 +1,47 @@
+CONTRIBUTING.md
+  s_bd2473d7d7c445::t_3fc0f67d209958 22-26
+  s_bd2473d7d7c445::t_e7659fef94947f 10-21,27-32
+.github/actions/setup-node-deps/action.yaml
+  s_bd2473d7d7c445::t_d92e4d2272237d 17
+.github/workflows/codeql.yaml
+  s_bd2473d7d7c445::t_891b116ae2f29a 20-21
+.github/workflows/tests.yaml
+  s_bd2473d7d7c445::t_cd4c491448788b 59-62
+README.md
+  s_bd2473d7d7c445::t_250e44f30e2c22 110-115
+mise.toml
+  s_bd2473d7d7c445::t_a05552dfe10b9f 3
+package-lock.json
+  s_bd2473d7d7c445::t_23f21398fd4dbe 30
+package.json
+  s_bd2473d7d7c445::t_1941ac21df49d0 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b95019bf9d1059dc74fbf908374f022c88629361",
+  "prompts": {
+    "1deb870729175656": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019de558-d95b-76d3-8f47-14d5bd25cf20",
+        "model": "gpt-5.5"
+      },
+      "human_author": "KjellKod <kjell.hedstrom@gmail.com>",
+      "total_additions": 630,
+      "total_deletions": 252,
+      "accepted_lines": 381,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_bd2473d7d7c445": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1651c-8c4b-75e0-95f7-49004ae96665",
+        "model": "unknown"
+      },
+      "human_author": "KjellKod <kjell.hedstrom@gmail.com>"
+    }
+  }
+}
